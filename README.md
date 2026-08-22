@@ -19,4 +19,5 @@ For this project, I used Claude to generate a synthetic dataset for a fictitious
 1. Python/pandas
 2. MySQL (Joins, CASE statements, CTE's)
 3. Excel
+4. Tableau
 
