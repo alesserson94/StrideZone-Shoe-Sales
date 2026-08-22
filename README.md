@@ -17,6 +17,6 @@ For this project, I used Claude to generate a synthetic dataset for a fictitious
 **Tech Stack Used:**
 
 1. Python/pandas
-2. MySQL (joins, CASE statements, CTE's)
+2. MySQL (Joins, CASE statements, CTE's)
 3. Excel
 
