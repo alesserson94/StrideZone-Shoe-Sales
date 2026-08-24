@@ -1,13 +1,3 @@
-select * from shoe_sales;
-
-alter table shoe_sales
-drop column MyUnknownColumn;
-
-alter table store_info
-drop column MyUnknownColumn;
-
-select * from store_info;
-
 with merged_tables as
 (select distinct
 s.transaction_id,s.store_id,i.store_name,i.city,i.state,
